@@ -1,13 +1,13 @@
-🚀 Welcome to My GitHub!
-👋 Hi there! I’m Hoang, full name Lê Hữu Duy Hoàng , a passionate developer who loves building innovative projects and learning new technologies.
+# 🚀 Welcome to My GitHub!  
 
-🔥 About Me
-💻 Currently working with ...
-🎯 My goal: To master the art of coding and become a true Code Artist 🎨💻
-🌱 Learning more about ...
-📫 Reach me at:...
-🚀 Featured Projects
+👋 Hi there! I’m **Hoang**, full name **Lê Hữu Duy Hoàng**,  
+a passionate developer who loves building innovative projects and learning new technologies.  
 
+## 🔥 About Me  
+💻 Currently working with ...  
+🎯 **My goal:** To master the art of coding and become a true **Code Artist** 🎨💻  
+🌱 Learning more about ...  
+📫 Reach me at: ...  
 📊 GitHub Stats
 
 
